@@ -70,6 +70,5 @@ public static void main(String[] args) {
 
 ## 📜 License
 
-
-Feel free to explore, use, and contribute! 🚀
 ```
+Feel free to explore, use, and contribute! 🚀
