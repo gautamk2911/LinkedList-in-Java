@@ -8,7 +8,6 @@ This repository showcases a comprehensive implementation of linked lists in Java
 
 - **Dynamic Size:** Automatically adjusts as nodes are added or removed.
 - **Efficient Operations:** Fast insertion and deletion without shifting elements.
-- **Types Supported:** Singly Linked List, Doubly Linked List, Circular Linked List, and Circular Doubly Linked List.
 
 
 ## 🛠️ Operations
